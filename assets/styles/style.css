@@ -403,7 +403,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url("/Website/assets/images/business-img.png");
+    background: url("/assets/images/business-img.png");
     background-size: cover;
     background-position: center;
     margin-bottom: 2rem;
